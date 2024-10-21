@@ -1,1 +1,10 @@
+.loginForm {
+    margin: auto;
+    max-width: 540px;
+    margin-bottom: 1em;
+}
 
+.loginSubmit {
+    display: block;
+    margin: auto;
+}
