@@ -4,11 +4,17 @@ import NavBar from './navbar';
 // default from react project
 function App() {
   return (
-    <div className="App">
+    <div className="body">
       <NavBar/>
-      <p>Hello World</p>
+      <NavBar />
     </div>
   );
 }
 
 export default App;
+
+function NavBar() {
+  return (
+    <p>hi</p>
+  );
+}
