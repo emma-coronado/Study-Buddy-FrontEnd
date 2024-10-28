@@ -12,7 +12,6 @@ function App() {
       <ListingCard name="Emma" subjects="DSA" bio="This is some stuff about me :)" id='2'/>
       <Login/>
       <Register/>
-
     </div>
   );
 }
